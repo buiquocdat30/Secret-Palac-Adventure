@@ -13,6 +13,13 @@
             "width": 640,
             "x": -160,
             "y": 480
+        },
+        {
+            "fileName": "maps/Map2.tmx",
+            "height": 960,
+            "width": 960,
+            "x": -896,
+            "y": -160
         }
     ],
     "onlyShowAdjacentMaps": false,
